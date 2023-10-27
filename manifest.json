@@ -1,0 +1,8 @@
+{
+    "name": "fitness tracker",
+    "short_name": "fitness_tracker",
+    "start_url": "/index.html",
+    "decsription": "a place for you to upload your fitness data!",
+    "id": "/index.html",
+    "display": "standalone"
+}
